@@ -13,3 +13,5 @@ The python script (part of the blend file) contains parameters near the top you 
 Blender is a very powerful 3D creation suite so if you know Blender you can go all out with this.
 
 I am not a professional programmer so many things in the python script could have been done more efficient i am sure.
+
+Use this anyway you want. Hopefully it is worthwile for someone. 
