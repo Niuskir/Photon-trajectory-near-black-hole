@@ -15,3 +15,5 @@ Blender is a very powerful 3D creation suite so if you know Blender you can go a
 I am not a professional programmer so many things in the python script could have been done more efficient i am sure.
 
 Use this anyway you want. Hopefully it is worthwile for someone. 
+
+Youtube video of trajectories made completely in Blender: https://youtu.be/rbo4uJvEOj0
