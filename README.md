@@ -16,4 +16,7 @@ I am not a professional programmer so many things in the python script could hav
 
 Use this anyway you want. Hopefully it is worthwile for someone. 
 
+The Python method used calculate the trajectories (Euler) was found in the file "only_trajectories_with_euler.py" which you can find in this Github repository:
+https://github.com/Python-simulation/Black-hole-simulation-using-python
+
 Youtube video of trajectories made completely in Blender: https://youtu.be/rbo4uJvEOj0
